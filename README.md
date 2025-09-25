@@ -11,6 +11,7 @@ A personalized DJ that knows your favorite songs by mood and can recommend playl
 
 ## Steps
 1. Add .dev.vars file in the Mood DJ folder with your keys.
+
 OPENAI_API_KEY=your-key
 SPOTIFY_ACCESS_TOKEN=your-key
 
