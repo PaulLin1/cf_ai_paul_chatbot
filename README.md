@@ -3,7 +3,7 @@
 A personalized DJ that knows your favorite songs by mood and can recommend playlists and songs that fit your mood.
 
 ## Demo
-[![Demo][https://www.youtube.com/watch?v=T5fcQKbanVk]
+[![Demo](https://www.youtube.com/watch?v=T5fcQKbanVk)
 ## How to run locally
 ### Requirements
 - OpenAI Key
